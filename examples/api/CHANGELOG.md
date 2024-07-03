@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.0.0-beta.11]
+
+### Dependencies
+
+- Upgraded to `os-js@2.0.0-beta.7`
+
 ## \[2.0.0-beta.10]
 
 ### Dependencies

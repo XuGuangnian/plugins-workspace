@@ -59,6 +59,7 @@
     ".changes/notifcation-permission-commands.md",
     ".changes/notification-fix-dev-check.md",
     ".changes/notification-fix-dev-name.md",
+    ".changes/os-sync-functions-doc.md",
     ".changes/os-sync-functions.md",
     ".changes/public-with-store.md",
     ".changes/remove-unc-path-prefix.md",
