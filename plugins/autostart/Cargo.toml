@@ -15,4 +15,5 @@ serde_json = { workspace = true }
 tauri = { workspace = true }
 log = { workspace = true }
 thiserror = { workspace = true }
-auto-launch = "0.5"
+#auto-launch = "0.5"
+auto-launch = { git = "https://github.com/zzzgydi/auto-launch", branch = "main" }
