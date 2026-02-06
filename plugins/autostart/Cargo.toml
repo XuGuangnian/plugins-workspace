@@ -5,7 +5,7 @@ description = "Automatically launch your application at startup."
 authors = { workspace = true }
 license = { workspace = true }
 edition = { workspace = true }
-rust-version = { workspace = true }
+rust-version = "1.82"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
@@ -15,5 +15,4 @@ serde_json = { workspace = true }
 tauri = { workspace = true }
 log = { workspace = true }
 thiserror = { workspace = true }
-#auto-launch = "0.5"
-auto-launch = { git = "https://github.com/zzzgydi/auto-launch", branch = "main" }
+auto-launch = "0.6"
