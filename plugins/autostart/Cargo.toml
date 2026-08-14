@@ -5,7 +5,8 @@ description = "Automatically launch your application at startup."
 authors = { workspace = true }
 license = { workspace = true }
 edition = { workspace = true }
-rust-version = { workspace = true }
+# rust-version = { workspace = true }
+rust-version = "1.82"
 repository = { workspace = true }
 links = "tauri-plugin-autostart"
 exclude = [
@@ -31,4 +32,4 @@ serde = { workspace = true }
 serde_json = { workspace = true }
 tauri = { workspace = true }
 thiserror = { workspace = true }
-auto-launch = "0.5"
+auto-launch = "0.6"
